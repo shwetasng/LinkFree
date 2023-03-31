@@ -3,12 +3,12 @@
   "type": "personal",
   "bio": "**Sophomore pursuing Btech CSE**",
 
-  "tags": ["DevOps", "WebDev", "Open Source"],
+  "tags": ["DevOps", "WebDevelopment", "Open Source"],
 
   "socials": [
     {
       "icon": "FaTwitter",
-      "url": "https://twitter.com/<Your Twitter Username>"
+      "url": "https://twitter.com/Shweta_sng17"
     },
     { "icon": "FaGithub", "url": "https://github.com/shwetasng" },
     {
